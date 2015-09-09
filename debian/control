@@ -9,7 +9,7 @@ Build-Depends:
  dh-python,
 Build-Depends-Indep:
  hevea,
-Standards-Version: 3.7.2
+Standards-Version: 3.9.6
 X-Python-Version: >= 2.6
 X-Python3-Version: >= 3.3
 
