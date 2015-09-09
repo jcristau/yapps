@@ -1,0 +1,3 @@
+usr/lib/python3*/*-packages/yapps/__init__.py
+usr/lib/python3*/*-packages/yapps/runtime.py
+usr/lib/python3*/*-packages/*.egg-info

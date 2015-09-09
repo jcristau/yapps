@@ -1,0 +1,5 @@
+usr/bin
+usr/lib/python3*/*-packages/yapps/grammar.py
+usr/lib/python3*/*-packages/yapps/parsetree.py
+usr/lib/python3*/*-packages/yapps/cli_tool.py
+
