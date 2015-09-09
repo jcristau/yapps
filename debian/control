@@ -3,7 +3,7 @@ Section: python
 Priority: optional
 Maintainer: Matthias Urlichs <smurf@debian.org>
 Build-Depends: debhelper (>= 4.1)
-Build-Depends-Indep: python-dev (>= 2.5.4-1~), hevea, python-support (>= 0.4)
+Build-Depends-Indep: python-dev (>= 2.5.4-1~), hevea, dh-python
 Standards-Version: 3.7.2
 
 Package: yapps2
